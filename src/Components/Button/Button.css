@@ -1,0 +1,42 @@
+button {
+    border: none;
+    background-color: rgb(80, 60, 209);
+    font-size: 24px;
+    color: rgb(255, 255, 255);
+    font-weight: bold;
+    cursor: pointer;
+    border-radius: 50px;
+    outline: none;
+  }
+  
+
+  
+  .two {
+    
+    background-color: #B1A296;
+    font-family: "Lucida Console", "Courier New", monospace;
+    font-weight: 20;
+  }
+  
+  .two:hover {
+    background-color: #b1a296b9;
+  }
+
+  .digit {
+    background-color: #7395AE;
+    font-weight: 20;
+  }
+
+  .digit:hover {
+    background-color: #588baf;
+  }
+
+  .operation {
+    background-color: #557a95;
+    color: #c7b2a1;
+    font-weight: 20;
+  }
+  
+  .operation:hover {
+    background-color: #437497;
+  }
